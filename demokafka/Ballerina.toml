@@ -1,0 +1,11 @@
+[package]
+org = "natashaw"
+name = "demokafka"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "DemoKafka"
+
+[build-options]
+observabilityIncluded = true
+remoteManagement = true
+sticky = true
